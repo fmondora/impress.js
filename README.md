@@ -4,7 +4,7 @@ impress.js
 It's a presentation framework based on the power of CSS3 transforms and 
 transitions in modern browsers and inspired by the idea behind prezi.com.
 
-**WARNING**
+*WARNING*
 
 impress.js may not help you if you have nothing interesting to say ;)
 
@@ -12,51 +12,19 @@ impress.js may not help you if you have nothing interesting to say ;)
 ABOUT THE NAME
 ----------------
 
-impress.js name in [courtesy of @skuzniak](http://twitter.com/skuzniak/status/143627215165333504).
+impress.js name in courtesy of @skuzniak (http://twitter.com/skuzniak/status/143627215165333504).
 
 It's an (un)fortunate coincidence that a Open/LibreOffice presentation tool is called Impress ;)
 
 
-VERSION HISTORY
------------------
 
-### master (in development)
+DEMO
+------
 
-**CONTAINS UNRELEASED CHANGES, MAY BE UNSTABLE**
-
-* added mousewheel support (thx @OpenGrid)
-* couple of small bug-fixes
+impress.js demo: [http://bartaz.github.com/impress.js]
 
 
-### 0.1 ([browse](https://github.com/bartaz/impress.js/tree/0.1), [zip](https://github.com/bartaz/impress.js/zipball/0.1), [tar](https://github.com/bartaz/impress.js/tarball/0.1))
-
-First release.
-
-Contains basic functionality for step placement and transitions between them
-with simple fallback for non-supporting browsers.
-
-
-EXAMPLES AND DEMOS
---------------------
-
-### Official demo
-
-[impress.js demo](http://bartaz.github.com/impress.js) by @bartaz
-
-### Presentations
-
-[What the Heck is Responsive Web Design](http://johnpolacek.github.com/WhatTheHeckIsResponsiveWebDesign-impressjs/) by John Polacek [@johnpolacek](http://twitter.com/johnpolacek)
-
-[12412.org presentation to Digibury](http://extra.12412.org/digibury/) by Stephen Fulljames [@fulljames](http://twitter.com/fulljames)
-
-### Websites and portfolios
-
-[lioshi.com](http://lioshi.com) by @lioshi
-
-[alingham.com](http://www.alingham.com) by Al Ingham [@alingham](http://twitter.com/alingham)
-
-
-If you have used impress.js in your presentation (or website) and would like to have it listed here,
+If you have used impress.js in your presentation and would like to have it listed here,
 please contact me via GitHub or send me a pull request to updated `README.md` file.
 
 
@@ -127,5 +95,5 @@ likely to be supported (without polyfill code).
 LICENSE
 ---------
 
-Copyright 2011-2012 Bartek Szopka. Released under MIT License.
+Copyright 2011 Bartek Szopka. Released under MIT License.
 
